@@ -4,3 +4,8 @@ class calculator:
   def calculate(self) ->int:
     #calculating...
     return result
+
+def coba():
+  
+    return result
+    
